@@ -1,0 +1,17 @@
+ 
+[ 
+    {   
+      "userName": "11111111111",
+      "password": "password",
+      "fromAsset":"Automation Tank",
+      "toAsset":"Automation Asset",
+      "fuleType":"ERP_RegDeisel",
+      "fromComp":"compartment-1",
+      "toComp":"compartment-1",
+      "gallons":"200",
+      "driver": "Automation Driver"
+
+  
+  
+    }
+  ]

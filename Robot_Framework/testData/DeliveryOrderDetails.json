@@ -1,0 +1,25 @@
+ 
+[ 
+  {   
+    "scenario": "first",
+    "userName": "11111111111",
+    "password": "password",
+    "CustomerName":"HamroShipTo",
+    "CustomerFullName":"AutomationCustomer",
+    "tankType":"HamroAssetAutomation",
+    "productType":"Regular Diesel",
+    "terminalName":"Terminal 11",  
+    "suppliersName":"Dummy Supplier 3",
+    "customerLoad":"Terminal 11",
+    "driver":"Automation Driver",
+    "truck":"Automation Asset",
+    "list1":"NewHamroAssetAutomation navigate to,Regular Def,Skipped,1200",
+    "list2":"HamroAssetAutomation navigate to,Regular Diesel,Delivered,Manual,1200",
+    "contentFile":"AutomationCustomer,Automation Driver,HamroAssetAutomation,Regular Diesel,Delivered To:,1200.0,HamroPOnumber_123"
+
+
+
+
+
+  }
+]

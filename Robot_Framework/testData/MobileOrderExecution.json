@@ -1,0 +1,24 @@
+ 
+[ 
+    {   
+      "scenario": "",
+      "phoneNumber": "9998887775",
+      "password": "changeme",
+      "truck":"Automation Asset BaOnePa 23432 - Tank Wagon",
+      "trailer1":"Trailer Dummy trailer 0999",
+      "CustomerName":"HamroShipTo",
+      "tankType":"HamroAssetAutomation",
+      "terminalName":"AutomationTerminal",
+      "bolNumber":"998877",
+      "supplier":"Suppliers_Automation",
+      "product":"Regular Diesel",
+      "product1":"Regular Def",
+      "grossTotal":"1200",
+      "compFirst":"1200",
+      "fromAsset":"Tank Automation Tank",
+      "toAsset":"Trailer Automation Trailer"
+      
+
+  
+    }
+  ]

@@ -1,0 +1,13 @@
+# robotframework
+# robotframework-seleniumlibrary
+# robotframework-appiumlibrary
+# textract
+# robotframework-selenium2library
+robotframework==5.0.1
+robotframework-appiumlibrary
+robotframework-pythonlibcore==3.0.0
+#robotframework-selenium2library==3.0.0
+robotframework-seleniumlibrary==6.0.0
+textract==1.6.5
+selenium==4.9.1
+

@@ -1,0 +1,14 @@
+[ 
+  {   
+    "scenario": "",
+    "userName": "11111111111",
+    "password": "password",
+    "terminal": "AutomationTerminal",
+    "product": "Regular Diesel",
+    "supplier": "Suppliers_Automation - supp123",
+    "gallon" : "1000",
+    "loading_instruction": "Go to terminal to load diesel 1000 gallons"
+
+
+  }
+]

@@ -1,0 +1,16 @@
+/.pytest_cache/
+/Lib/
+/Scripts/
+/testCases/.pytest_cache/
+/pageObjects/__pycache__
+/.idea
+/testCases/__pycache__
+/testSetup/__pycache__
+/__pycache__
+/pyvenv.cfg
+
+
+/venv
+
+
+

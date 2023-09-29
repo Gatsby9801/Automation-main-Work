@@ -1,0 +1,23 @@
+ 
+[ 
+  {   
+    "scenario": "first",
+    "userName": "11111111111",
+    "password": "password",
+    "phoneNumber": "9998887775",
+    "driverPassword": "changeme",
+    "CustomerName":"AutomationCustomer",
+    "customerLoad":"AutomationTerminal",
+    "CustomerFullName":"AutomationCustomer - New12345",
+    "tankType":"Automation",
+    "productType":"Regular Diesel,Regular Def",
+    "terminalName":"AutomationTerminal",  
+    "suppliersName":"Suppliers_Automation",
+    "driver":"Automation Driver",
+    "truck":"Automation Asset BaOnePa 23432 - Tank Wagon"
+
+
+
+
+  }
+]
